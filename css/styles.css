@@ -166,6 +166,7 @@
     .filter-btn-text:focus,
     .filter-btn-text:hover {
     background: var(--hover-btn-color);
+    color: #404BBF;
     color: #ffffff;
     }
     .project-title {
