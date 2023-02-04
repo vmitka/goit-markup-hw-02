@@ -130,6 +130,20 @@
     line-height: 1.5;
     }
     /*---footer---*/
+    .logo {
+        font-family: var(--secondari-font);
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.33;
+        color: var(--logo-hover-color);
+        }
+        .logo-dark {
+        color: var(--secondari-text-color);
+        }
+        .logo-withe {
+        color: var(--withe-logo-color);
+        }
     .footer {
     background-color: var(--secondari-text-color);
     }
